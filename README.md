@@ -1,4 +1,4 @@
-# DiimoAI API
+# Default Classifier API
 
 This repository cointains the API for the AI Solutions for DiiMO.
 
