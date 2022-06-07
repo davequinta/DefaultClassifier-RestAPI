@@ -1,6 +1,6 @@
 # Default Classifier API
 
-This repository cointains the API for the AI Solutions for DiiMO.
+This repository cointains the API for the AI Solutions.
 
 ## ML Models:
 1. Default Risk Model
